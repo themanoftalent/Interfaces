@@ -18,7 +18,7 @@ I am currently working on the following features:
 To clone the repository, run the following command:
 
 ```
-git clone https://github.com/your-username/simple-interface.git
+git clone https://github.com/themanoftalent/Interfaces.git
 ```
 
 Once the repository is cloned, you can open the project in a code editor and start developing.
